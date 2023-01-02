@@ -13,7 +13,7 @@ Sound via the 3.5MM in/out is untested since I use HDMI audio for output and don
 
 USB remapping may be required depending on your specific requirements.  This works for me.  
 
-NIC:  E2200 Killer.  Works fine. 
+NIC:  E2400 Killer.  Works fine. 
 
 
 
