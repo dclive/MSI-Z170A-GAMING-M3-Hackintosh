@@ -9,11 +9,11 @@ If you use a more modern AMD card, you may need agdpmod=pikera in NVRAM boot arg
 
 I use a basic Broadcom wifi card mounted on a PCIe card for wireless and BT.  BT is untested; wifi is only lightly tested.  
 
-Sound via the 3.5MM in/out is untested since I use HDMI audio for output and don't use input.  Reminder:  Quick guide.  :) 
+Sound via the 3.5MM in/out is untested since I use HDMI audio for output and don't use input.  
 
-USB remapping may be required depending on your specific requirements.  This works for me.  
+USB remapping may be required depending on your specific requirements.  This works for me.  If you add the wifi/BT PCIe card, you'll have better luck with the extra USB mappings file posted on Jan 13. 
 
-NIC:  E2400 Killer.  Works fine. 
+NIC:  Qualcomm Atheros E2400 Killer.  Works fine. 
 
-
+Recommendation:  Add a Wifi/BT PCIe card.  Apple-based Broadcom cards strongly recommended.  
 
