@@ -1,4 +1,8 @@
 # MSI-Z170A-GAMING-M3-Hackintosh
+Sample GeekBench 6.03 Output with PC3000 RAM, "game mode" BIOS setting set to off:
+
+![239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4](https://user-images.githubusercontent.com/4536776/239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4.png)
+
 Boot EFI to get one going on a basic Mac install with the MSI Z170A Gaming M3; read the readme for important details
 
 **Please note:  This is a quick guide.  Very little support can be given on this; the intent is only for this to get you into MacOS, and then you can use OpenCore Aux Tools (OCAT) to modify this to suit your configuration.  It's basic, and that's how it's intended.  Once you're in MacOS, grab OCAT, and modify away.**  This uses OpenCore .88; be sure to tell OCAT to update to "latest version of OpenCore" inside the OCAT application.  Note this is different from an OCAT update (do those, too).  Find the directions on how to do this on my github page (look in the index).
