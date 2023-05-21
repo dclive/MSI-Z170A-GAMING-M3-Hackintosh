@@ -5,7 +5,7 @@ Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting s
 
 Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting set to on: 
 
-![image-20230521084144954](/Users/david/Library/Application Support/typora-user-images/image-20230521084144954.png)
+
 
 **Suggestion:  Keep game mode setting in BIOS set to OFF outside of very special use cases.  XMP should always be set to ON.**
 
