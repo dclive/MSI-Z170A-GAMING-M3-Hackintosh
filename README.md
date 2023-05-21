@@ -11,9 +11,9 @@ Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting s
 
 ![239747122-e55d654b-8d2e-4787-bc22-b4b59265c41e](https://user-images.githubusercontent.com/4536776/239747122-e55d654b-8d2e-4787-bc22-b4b59265c41e.png)
 
-Suggestion:  Ensure XMP and Game Mode in BIOS are turned on.  Ensure the BIOS determines the correct memory speed; the jump from PC2400 the PC3000 shows a small but noted increase in performance.
+Suggestion:  Ensure XMP and Game Mode in BIOS are turned on.  Ensure the BIOS determines the correct memory speed; the jump from PC2400 to PC3000 shows a small but noted increase in performance.
 
-Boot EFI to get one going on a basic Mac install with the MSI Z170A Gaming M3; read the readme for important details
+This is a boot EFI to get one going on a basic Mac install with the MSI Z170A Gaming M3; read the readme for important details.
 
 **Please note:  This is a quick guide.  The intent is only for this to get you into MacOS, and then you can use OpenCore Aux Tools (OCAT) to modify this to suit your configuration.  It's basic, and that's how it's intended.  Once you're in MacOS, grab OCAT, and modify away.**  This uses OpenCore .88; be sure to tell OCAT to update to "latest version of OpenCore" inside the OCAT application.  Note this is different from an OCAT update (do those, too).  Find the directions on how to do this on my github page: https://github.com/dclive/Howto--Update-OpenCore-with-OCAT.
 
