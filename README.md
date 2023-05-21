@@ -1,7 +1,13 @@
 # MSI-Z170A-GAMING-M3-Hackintosh
-Sample GeekBench 6.03 Output with PC3000 RAM, "game mode" BIOS setting set to off:
+Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting set to off:
 
 ![239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4](https://user-images.githubusercontent.com/4536776/239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4.png)
+
+Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting set to on: 
+
+![image-20230521084144954](/Users/david/Library/Application Support/typora-user-images/image-20230521084144954.png)
+
+**Suggestion:  Keep game mode setting in BIOS set to OFF outside of very special use cases.  XMP should always be set to ON.**
 
 Boot EFI to get one going on a basic Mac install with the MSI Z170A Gaming M3; read the readme for important details
 
