@@ -3,11 +3,15 @@ Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting s
 
 ![239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4](https://user-images.githubusercontent.com/4536776/239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4.png)
 
-Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting set to on: 
+Sample GeekBench 6.03 Output with PC2400 RAM, XMP on, "game mode" BIOS setting set to on: 
 
 ![239745011-4ffb1f1f-7ef8-433d-8041-8b5ba26d31f7](https://user-images.githubusercontent.com/4536776/239745011-4ffb1f1f-7ef8-433d-8041-8b5ba26d31f7.png)
 
-**Suggestion:  Keep game mode setting in BIOS set to OFF outside of very special use cases.  XMP should always be set to ON.**
+Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting set to on: 
+
+![239747122-e55d654b-8d2e-4787-bc22-b4b59265c41e](https://user-images.githubusercontent.com/4536776/239747122-e55d654b-8d2e-4787-bc22-b4b59265c41e.png)
+
+Suggestion:  Ensure XMP and Game Mode in BIOS are turned on.  Ensure the BIOS determines the correct memory speed; the jump from PC2400 the PC3000 shows a small but noted increase in performance.
 
 Boot EFI to get one going on a basic Mac install with the MSI Z170A Gaming M3; read the readme for important details
 
