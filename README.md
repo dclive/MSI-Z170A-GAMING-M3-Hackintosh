@@ -1,4 +1,6 @@
 # MSI-Z170A-GAMING-M3-Hackintosh
+**6/18/23:  I've sold this motherboard; I'll keep this guide up for another month so those who use this can grab it.**  
+
 Sample GeekBench 6.03 Output with PC3000 RAM, XMP on, "game mode" BIOS setting set to off:
 
 ![239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4](https://user-images.githubusercontent.com/4536776/239713593-3e6ef1a1-064c-4ed7-a90c-b06a24a4abc4.png)
